@@ -11,15 +11,15 @@ import logging
 # logging.info("hha")
 # logging.error("see")
 # logging.critical("hello")
-def create_logger(level=logging.DEBUG):
+def create_logger(level=logging.DEBUG,path="task"):
 # create logger
     logger_name = "example"
     logger = logging.getLogger(logger_name)
     logger.setLevel(level)
 
 # create file handler
-    log_path = './log.log'
-    fh = logging.FileHandler(log_path)
+    log_path = './logs/{}log.log'.format(path)
+    fh = logging.FileHandler(log_path,encoding='utf8')
     fh.setLevel(level)
 
 # CREATE FORMATTER

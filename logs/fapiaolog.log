@@ -1,0 +1,41 @@
+Fri 26 Jan 2018 10:36:51 INFO guoshui.py 229 3452 19280 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:36:51 INFO guoshui.py 239 3452 19280 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:36:53 INFO guoshui.py 265 3452 19280 customerid:9，获取验证码为：None
+Fri 26 Jan 2018 10:36:53 INFO guoshui.py 229 3452 19280 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:36:53 INFO guoshui.py 239 3452 19280 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:36:54 INFO guoshui.py 265 3452 19280 customerid:9，获取验证码为：None
+Fri 26 Jan 2018 10:36:54 INFO guoshui.py 229 3452 19280 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:36:54 INFO guoshui.py 239 3452 19280 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:36:56 INFO guoshui.py 265 3452 19280 customerid:9，获取验证码为：[{"x":167,"y":101},{"x":222,"y":46},{"x":271,"y":38}]
+Fri 26 Jan 2018 10:36:56 INFO guoshui.py 269 3452 19280 customerid:9，验证验证码[{"x":167,"y":101},{"x":222,"y":46},{"x":271,"y":38}]
+Fri 26 Jan 2018 10:36:56 INFO guoshui.py 277 3452 19280 customerid:9,成功post数据
+Fri 26 Jan 2018 10:36:56 INFO guoshui.py 284 3452 19280 customerid:9pass
+Fri 26 Jan 2018 10:36:56 INFO tax_sum.py 58 3452 19280 customerid:9获取cookies
+Fri 26 Jan 2018 10:37:02 ERROR tax_sum.py 134 3452 19280 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Fri 26 Jan 2018 10:40:15 INFO guoshui.py 229 3452 19280 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:40:15 INFO guoshui.py 239 3452 19280 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:40:16 INFO guoshui.py 265 3452 19280 customerid:9，获取验证码为：None
+Fri 26 Jan 2018 10:40:16 INFO guoshui.py 229 3452 19280 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:40:16 INFO guoshui.py 239 3452 19280 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:40:18 INFO guoshui.py 265 3452 19280 customerid:9，获取验证码为：[{"x":271,"y":28},{"x":18,"y":62},{"x":168,"y":34}]
+Fri 26 Jan 2018 10:40:18 INFO guoshui.py 269 3452 19280 customerid:9，验证验证码[{"x":271,"y":28},{"x":18,"y":62},{"x":168,"y":34}]
+Fri 26 Jan 2018 10:40:18 INFO guoshui.py 277 3452 19280 customerid:9,成功post数据
+Fri 26 Jan 2018 10:40:18 INFO guoshui.py 284 3452 19280 customerid:9pass
+Fri 26 Jan 2018 10:40:18 INFO tax_sum.py 58 3452 19280 customerid:9获取cookies
+Fri 26 Jan 2018 10:40:21 ERROR tax_sum.py 134 3452 19280 (515, b"Cannot insert the value NULL into column 'valuetype', table '@hierarchy'; column does not allow nulls. INSERT fails.DB-Lib error message 20018, severity 16:\nGeneral SQL Server error: Check messages from the SQL Server\n")
+Fri 26 Jan 2018 10:40:51 INFO guoshui.py 229 32 8432 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:40:51 INFO guoshui.py 239 32 8432 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:40:52 INFO guoshui.py 265 32 8432 customerid:9，获取验证码为：None
+Fri 26 Jan 2018 10:40:52 INFO guoshui.py 229 32 8432 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:40:52 INFO guoshui.py 239 32 8432 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:40:54 INFO guoshui.py 265 32 8432 customerid:9，获取验证码为：None
+Fri 26 Jan 2018 10:40:54 INFO guoshui.py 229 32 8432 customerid:9,开始尝试登陆
+Fri 26 Jan 2018 10:40:54 INFO guoshui.py 239 32 8432 未传代理参数，启用本机IP
+Fri 26 Jan 2018 10:40:55 INFO guoshui.py 265 32 8432 customerid:9，获取验证码为：[{"x":72,"y":53},{"x":122,"y":22},{"x":17,"y":93}]
+Fri 26 Jan 2018 10:40:55 INFO guoshui.py 269 32 8432 customerid:9，验证验证码[{"x":72,"y":53},{"x":122,"y":22},{"x":17,"y":93}]
+Fri 26 Jan 2018 10:40:56 INFO guoshui.py 277 32 8432 customerid:9,成功post数据
+Fri 26 Jan 2018 10:40:56 INFO guoshui.py 284 32 8432 customerid:9pass
+Fri 26 Jan 2018 10:40:56 INFO tax_sum.py 58 32 8432 customerid:9获取cookies
+Fri 26 Jan 2018 10:41:00 INFO tax_sum.py 112 32 8432 (18282900, 9, '', '155.34', '0', '0')
+Fri 26 Jan 2018 10:41:00 INFO tax_sum.py 113 32 8432 爬取完成
+Fri 26 Jan 2018 10:41:00 INFO tax_sum.py 116 32 8432 发票汇总完成

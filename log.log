@@ -1,0 +1,3 @@
+Mon 15 Jan 2018 15:12:26 WARNING tax_sum.py 138 14904 12496 'fapiao' object has no attribute 'jiami'
+Mon 15 Jan 2018 16:50:27 INFO tax_sum.py 190 2892 4792 发票汇总完成
+Mon 15 Jan 2018 17:14:02 INFO tax_sum.py 202 14352 9912 发票汇总完成
